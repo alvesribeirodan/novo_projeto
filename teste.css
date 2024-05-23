@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-size: cover;
+    background-image: url('./img/wp5126197.webp');
+    background-repeat: no-repeat;
+}
+
+h1 {
+    background-color: rgb(23, 10, 109);
+    color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: ghostwhite;
+}
+
+p {
+    background-color: aliceblue;
+}
+
+h4 {
+    background-color: rgb(23, 10, 109);
+    color: antiquewhite;
+    text-align: center;
+}
